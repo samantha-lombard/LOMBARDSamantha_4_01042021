@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: #424242;
 }
 
 .d-bloc .a-btn:hover,
@@ -640,9 +640,7 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
 h3,
-h4,
 h5,
 h6,
 p,
@@ -651,7 +649,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #333!important;
 }
 
 .container {
@@ -676,9 +674,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -780,7 +775,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #424242!important;
 }
 
 .btn-atomic-tangerine:hover {
